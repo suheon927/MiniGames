@@ -10,7 +10,7 @@ A collection of mini-games implemented in C language. This repository includes v
   1. The player starts with a certain number of incorrect guesses.
   2. Players guess letters one at a time.
   3. If the letter is in the word, it will be revealed; if not, the player loses an attempt.
-- **File**: [Hangman](hangman/hangman.c)
+- **File**: [Hangman](hangman/main.c)
 
 ### 2. Tic-Tac-Toe
 - **Description**: A simple two-player game where players take turns marking a space in a 3x3 grid with 'X' or 'O'.
